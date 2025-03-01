@@ -1,0 +1,734 @@
+[
+  {
+    "key": "paris_123",
+    "answer": "Paris",
+    "trivia": "Paris was originally a Roman city called Lutetia.",
+    "fun_fact": "The Eiffel Tower was supposed to be dismantled after 20 years but was saved because it was useful for radio transmissions!"
+  },
+  {
+    "key": "london_456",
+    "answer": "London",
+    "trivia": "London was the first city in the world to have an underground subway system.",
+    "fun_fact": "Big Ben is actually the nickname for the Great Bell inside the Elizabeth Tower, not the tower itself."
+  },
+  {
+    "key": "rome_789",
+    "answer": "Rome",
+    "trivia": "Rome's Colosseum is considered one of the Seven Wonders of the Modern World.",
+    "fun_fact": "Rome has a museum dedicated entirely to pasta!"
+  },
+  {
+    "key": "berlin_101",
+    "answer": "Berlin",
+    "trivia": "Berlin has more bridges than Venice, with over 1,700 in total.",
+    "fun_fact": "Berlin's famous 'Berliner' doughnut was once mistakenly referred to as 'Ich bin ein Berliner' by JFK."
+  },
+  {
+    "key": "madrid_202",
+    "answer": "Madrid",
+    "trivia": "Madrid is home to the oldest restaurant in the world, Sobrino de Botín, which has been running since 1725.",
+    "fun_fact": "Madrid has a statue dedicated to a bear eating berries, called 'El Oso y el Madroño'."
+  },
+  {
+    "key": "tokyo_303",
+    "answer": "Tokyo",
+    "trivia": "Tokyo was originally called Edo until 1868.",
+    "fun_fact": "Tokyo has the world's busiest pedestrian crossing, with over 2,500 people crossing at a time!"
+  },
+  {
+    "key": "newyork_404",
+    "answer": "New York",
+    "trivia": "New York was originally called New Amsterdam.",
+    "fun_fact": "Times Square was originally named Longacre Square but was renamed after The New York Times."
+  },
+  {
+    "key": "sydney_505",
+    "answer": "Sydney",
+    "trivia": "Sydney's Opera House roof is covered with over 1 million white tiles.",
+    "fun_fact": "Sydney Harbour is the largest natural harbor in the world."
+  },
+  {
+    "key": "moscow_606",
+    "answer": "Moscow",
+    "trivia": "Moscow's Metro stations are often called 'underground palaces' due to their stunning architecture.",
+    "fun_fact": "Moscow's Red Square is named after the Russian word 'krasnaya', which originally meant 'beautiful', not 'red'."
+  },
+  {
+    "key": "dubai_707",
+    "answer": "Dubai",
+    "trivia": "Dubai is home to the world's tallest building, Burj Khalifa, which stands at 828 meters.",
+    "fun_fact": "ATMs in Dubai dispense gold bars instead of just cash!"
+  },
+  {
+    "key": "cape_town_808",
+    "answer": "Cape Town",
+    "trivia": "Cape Town was the first European settlement in Africa.",
+    "fun_fact": "Table Mountain is one of the oldest mountains in the world, estimated to be over 600 million years old."
+  },
+  {
+    "key": "buenos_909",
+    "answer": "Buenos Aires",
+    "trivia": "Buenos Aires' name means 'Fair Winds' in Spanish.",
+    "fun_fact": "Buenos Aires has more bookstores per person than any other city in the world."
+  },
+  {
+    "key": "bangkok_1010",
+    "answer": "Bangkok",
+    "trivia": "Bangkok's full ceremonial name is the longest city name in the world, with 169 characters.",
+    "fun_fact": "The floating markets of Bangkok attract millions of tourists each year."
+  },
+  {
+    "key": "istanbul_1111",
+    "answer": "Istanbul",
+    "trivia": "Istanbul is the only city in the world that spans two continents: Europe and Asia.",
+    "fun_fact": "The Grand Bazaar in Istanbul is one of the oldest and largest covered markets in the world, with over 4,000 shops."
+  },
+  {
+    "key": "vienna_1212",
+    "answer": "Vienna",
+    "trivia": "Vienna is known as the 'City of Music' because of its musical heritage, including famous composers like Mozart and Beethoven.",
+    "fun_fact": "Vienna's Schönbrunn Palace has over 1,400 rooms!"
+  },
+  {
+    "key": "prague_1313",
+    "answer": "Prague",
+    "trivia": "Prague's Charles Bridge is one of the oldest stone bridges in Europe, built in 1357.",
+    "fun_fact": "Prague Castle is the largest ancient castle complex in the world, covering over 70,000 square meters."
+  },
+  {
+    "key": "amsterdam_1414",
+    "answer": "Amsterdam",
+    "trivia": "Amsterdam has more canals than Venice, with over 100 kilometers of waterways.",
+    "fun_fact": "There are more bicycles than people in Amsterdam, with over 880,000 bikes in the city."
+  },
+  {
+    "key": "copenhagen_1515",
+    "answer": "Copenhagen",
+    "trivia": "Copenhagen is one of the most bike-friendly cities in the world, with over 50% of its population commuting by bicycle.",
+    "fun_fact": "The Little Mermaid statue in Copenhagen is one of the most photographed statues in the world."
+  },
+  {
+    "key": "stockholm_1616",
+    "answer": "Stockholm",
+    "trivia": "Stockholm is built on 14 islands connected by 57 bridges.",
+    "fun_fact": "Stockholm's metro system is often called the 'world's longest art gallery' due to its stunning station designs."
+  },
+  {
+    "key": "helsinki_1717",
+    "answer": "Helsinki",
+    "trivia": "Helsinki is known for its design and architecture, including the iconic Helsinki Cathedral.",
+    "fun_fact": "Helsinki has a church carved into solid rock, called Temppeliaukio Church."
+  },
+  {
+    "key": "oslo_1818",
+    "answer": "Oslo",
+    "trivia": "Oslo is one of the greenest cities in the world, with over 50% of its area covered by forests and parks.",
+    "fun_fact": "The Nobel Peace Prize is awarded annually in Oslo."
+  },
+  {
+    "key": "zurich_1919",
+    "answer": "Zurich",
+    "trivia": "Zurich is the financial capital of Switzerland and one of the world's most important banking centers.",
+    "fun_fact": "Zurich has over 1,200 fountains with drinkable water throughout the city."
+  },
+  {
+    "key": "geneva_2020",
+    "answer": "Geneva",
+    "trivia": "Geneva is home to the United Nations and the Red Cross, making it a global hub for diplomacy.",
+    "fun_fact": "Geneva's Jet d'Eau fountain shoots water 140 meters into the air, making it one of the tallest fountains in the world."
+  },
+  {
+    "key": "brussels_2121",
+    "answer": "Brussels",
+    "trivia": "Brussels is the capital of the European Union and is known for its waffles, chocolates, and beer.",
+    "fun_fact": "The Atomium in Brussels was built for the 1958 World Expo and represents an iron crystal magnified 165 billion times."
+  },
+  {
+    "key": "budapest_2222",
+    "answer": "Budapest",
+    "trivia": "Budapest is often called the 'Paris of the East' due to its stunning architecture and cultural heritage.",
+    "fun_fact": "Budapest has the largest thermal water cave system in the world, with over 100 natural hot springs."
+  },
+  {
+    "key": "warsaw_2323",
+    "answer": "Warsaw",
+    "trivia": "Warsaw's Old Town was completely rebuilt after World War II and is now a UNESCO World Heritage Site.",
+    "fun_fact": "Warsaw is home to the tallest building in the European Union, the Varso Tower."
+  },
+  {
+    "key": "krakow_2424",
+    "answer": "Krakow",
+    "trivia": "Krakow was the capital of Poland for over 500 years and is known for its well-preserved medieval core.",
+    "fun_fact": "Krakow's Wawel Castle is said to be home to a legendary dragon that terrorized the city."
+  },
+  {
+    "key": "athens_2525",
+    "answer": "Athens",
+    "trivia": "Athens is one of the oldest cities in the world, with a recorded history spanning over 3,400 years.",
+    "fun_fact": "Athens is named after Athena, the Greek goddess of wisdom, who won the city in a contest against Poseidon."
+  },
+  {
+    "key": "lisbon_2626",
+    "answer": "Lisbon",
+    "trivia": "Lisbon is one of the oldest cities in Europe, predating other capitals like London and Paris.",
+    "fun_fact": "Lisbon's Vasco da Gama Bridge is the longest bridge in Europe, spanning over 17 kilometers."
+  },
+  {
+    "key": "porto_2727",
+    "answer": "Porto",
+    "trivia": "Porto is famous for its port wine, which is produced in the Douro Valley and aged in the city's cellars.",
+    "fun_fact": "Porto's Livraria Lello bookstore is said to have inspired J.K. Rowling's depiction of Hogwarts in the Harry Potter series."
+  },
+  {
+    "key": "barcelona_2828",
+    "answer": "Barcelona",
+    "trivia": "Barcelona is home to the famous architect Antoni Gaudí, whose works include the Sagrada Familia and Park Güell.",
+    "fun_fact": "Barcelona's La Rambla is one of the most famous streets in the world, attracting millions of visitors each year."
+  },
+  {
+    "key": "seville_2929",
+    "answer": "Seville",
+    "trivia": "Seville is the birthplace of flamenco dancing and is known for its vibrant cultural scene.",
+    "fun_fact": "Seville's Cathedral is the largest Gothic cathedral in the world and houses the tomb of Christopher Columbus."
+  },
+  {
+    "key": "venice_3030",
+    "answer": "Venice",
+    "trivia": "Venice is built on 118 small islands connected by over 400 bridges and canals.",
+    "fun_fact": "Venice's gondolas are all painted black because of a 16th-century law to prevent competition among gondoliers."
+  },
+  {
+    "key": "florence_3131",
+    "answer": "Florence",
+    "trivia": "Florence is considered the birthplace of the Renaissance and is home to masterpieces by Michelangelo and Botticelli.",
+    "fun_fact": "Florence's Duomo took over 140 years to complete and is one of the most iconic landmarks in Italy."
+  },
+  {
+    "key": "milan_3232",
+    "answer": "Milan",
+    "trivia": "Milan is one of the world's fashion capitals and hosts events like Milan Fashion Week.",
+    "fun_fact": "Milan's La Scala opera house is one of the most famous in the world and has hosted legendary performers like Maria Callas."
+  },
+  {
+    "key": "naples_3333",
+    "answer": "Naples",
+    "trivia": "Naples is the birthplace of pizza, and its Margherita pizza is famous worldwide.",
+    "fun_fact": "Naples is home to the ancient Roman city of Pompeii, which was buried by the eruption of Mount Vesuvius in 79 AD."
+  },
+  {
+    "key": "dublin_3434",
+    "answer": "Dublin",
+    "trivia": "Dublin is home to the Guinness Storehouse, where visitors can learn about the history of Ireland's famous stout.",
+    "fun_fact": "Dublin's Trinity College Library houses the Book of Kells, a 9th-century manuscript considered one of Ireland's greatest treasures."
+  },
+  {
+    "key": "edinburgh_3535",
+    "answer": "Edinburgh",
+    "trivia": "Edinburgh is known for its historic and cultural festivals, including the Edinburgh Fringe Festival.",
+    "fun_fact": "Edinburgh Castle is built on an extinct volcano and has been a royal residence for centuries."
+  },
+  {
+    "key": "glasgow_3636",
+    "answer": "Glasgow",
+    "trivia": "Glasgow is Scotland's largest city and is known for its vibrant music and arts scene.",
+    "fun_fact": "Glasgow's Kelvingrove Art Gallery and Museum is one of the most visited museums in the UK outside of London."
+  },
+  {
+    "key": "manchester_3737",
+    "answer": "Manchester",
+    "trivia": "Manchester is known for its industrial heritage and is the birthplace of the modern railway.",
+    "fun_fact": "Manchester is home to two of the world's most famous football clubs: Manchester United and Manchester City."
+  },
+  {
+    "key": "liverpool_3838",
+    "answer": "Liverpool",
+    "trivia": "Liverpool is the birthplace of The Beatles and is known for its rich musical heritage.",
+    "fun_fact": "Liverpool's Albert Dock is a UNESCO World Heritage Site and one of the most visited tourist attractions in the UK."
+  },
+  {
+    "key": "birmingham_3939",
+    "answer": "Birmingham",
+    "trivia": "Birmingham is known as the 'City of a Thousand Trades' due to its industrial history.",
+    "fun_fact": "Birmingham has more canals than Venice, with over 35 miles of waterways."
+  },
+  {
+    "key": "belfast_4040",
+    "answer": "Belfast",
+    "trivia": "Belfast is the capital of Northern Ireland and is known for its shipbuilding history, including the Titanic.",
+    "fun_fact": "Belfast's Titanic Museum is shaped like the bow of a ship and is one of the most popular attractions in the city."
+  },
+  {
+    "key": "cairo_4141",
+    "answer": "Cairo",
+    "trivia": "Cairo is the largest city in Africa and is known for its ancient history, including the Pyramids of Giza.",
+    "fun_fact": "Cairo's Khan el-Khalili bazaar is one of the oldest markets in the world, dating back to the 14th century."
+  },
+  {
+    "key": "marrakech_4242",
+    "answer": "Marrakech",
+    "trivia": "Marrakech is known for its vibrant souks, palaces, and gardens, including the Jardin Majorelle.",
+    "fun_fact": "Marrakech's Koutoubia Mosque is one of the largest and most famous mosques in Morocco."
+  },
+  {
+    "key": "casablanca_4343",
+    "answer": "Casablanca",
+    "trivia": "Casablanca is Morocco's largest city and is known for its modern architecture, including the Hassan II Mosque.",
+    "fun_fact": "Casablanca's Hassan II Mosque has the tallest minaret in the world, standing at 210 meters."
+  },
+  {
+    "key": "nairobi_4444",
+    "answer": "Nairobi",
+    "trivia": "Nairobi is the capital of Kenya and is known as the 'Green City in the Sun' due to its lush greenery.",
+    "fun_fact": "Nairobi National Park is the only national park in the world located within a capital city."
+  },
+  {
+    "key": "johannesburg_4545",
+    "answer": "Johannesburg",
+    "trivia": "Johannesburg is the largest city in South Africa and is known for its gold mining history.",
+    "fun_fact": "Johannesburg is home to the Cradle of Humankind, a UNESCO World Heritage Site where some of the oldest human fossils were found."
+  },
+  {
+    "key": "lagos_4646",
+    "answer": "Lagos",
+    "trivia": "Lagos is Nigeria's largest city and is known for its vibrant culture, music, and nightlife.",
+    "fun_fact": "Lagos is one of the fastest-growing cities in the world, with a population of over 21 million people."
+  },
+  {
+    "key": "accra_4747",
+    "answer": "Accra",
+    "trivia": "Accra is the capital of Ghana and is known for its beaches, markets, and vibrant culture.",
+    "fun_fact": "Accra's Independence Square is one of the largest public squares in the world and is a symbol of Ghana's independence."
+  },
+  {
+    "key": "dakar_4848",
+    "answer": "Dakar",
+    "trivia": "Dakar is the capital of Senegal and is known for its French colonial heritage and vibrant arts scene.",
+    "fun_fact": "Dakar is home to the African Renaissance Monument, one of the tallest statues in Africa."
+  },
+  {
+    "key": "capetown_5050",
+    "answer": "Cape Town",
+    "trivia": "Cape Town is known for its stunning natural beauty, including Table Mountain and the Cape of Good Hope.",
+    "fun_fact": "Cape Town's Table Mountain is one of the New7Wonders of Nature."
+  },
+  {
+    "key": "riodejaneiro_5151",
+    "answer": "Rio de Janeiro",
+    "trivia": "Rio de Janeiro is known for its Carnival, samba music, and iconic landmarks like Christ the Redeemer.",
+    "fun_fact": "Rio's Copacabana Beach is one of the most famous beaches in the world, stretching over 4 kilometers."
+  },
+  {
+    "key": "saopaulo_5252",
+    "answer": "São Paulo",
+    "trivia": "São Paulo is the largest city in Brazil and is known for its skyscrapers, cultural diversity, and vibrant nightlife.",
+    "fun_fact": "São Paulo's Avenida Paulista is one of the most important financial and cultural centers in Latin America."
+  },
+  {
+    "key": "lima_5353",
+    "answer": "Lima",
+    "trivia": "Lima is the capital of Peru and is known for its colonial architecture and world-renowned cuisine.",
+    "fun_fact": "Lima's historic center is a UNESCO World Heritage Site and is home to some of the oldest buildings in South America."
+  },
+  {
+    "key": "bogota_5454",
+    "answer": "Bogotá",
+    "trivia": "Bogotá is the capital of Colombia and is known for its vibrant cultural scene and historic landmarks.",
+    "fun_fact": "Bogotá's Gold Museum houses the largest collection of pre-Hispanic gold artifacts in the world."
+  },
+  {
+    "key": "quito_5555",
+    "answer": "Quito",
+    "trivia": "Quito is the capital of Ecuador and is known for its well-preserved colonial center and Andean location.",
+    "fun_fact": "Quito is the closest capital city to the equator and has a monument marking the equator line."
+  },
+  {
+    "key": "caracas_5656",
+    "answer": "Caracas",
+    "trivia": "Caracas is the capital of Venezuela and is known for its tropical climate and vibrant culture.",
+    "fun_fact": "Caracas is home to the tallest waterfall in the world, Angel Falls, located in Canaima National Park."
+  },
+  {
+    "key": "santiago_5757",
+    "answer": "Santiago",
+    "trivia": "Santiago is the capital of Chile and is known for its Andean backdrop and wine production.",
+    "fun_fact": "Santiago's Central Market is one of the largest seafood markets in South America."
+  },
+  {
+    "key": "montevideo_5858",
+    "answer": "Montevideo",
+    "trivia": "Montevideo is the capital of Uruguay and is known for its beaches, colonial architecture, and relaxed atmosphere.",
+    "fun_fact": "Montevideo's Rambla is one of the longest continuous waterfront promenades in the world."
+  },
+  {
+    "key": "asuncion_5959",
+    "answer": "Asunción",
+    "trivia": "Asunción is the capital of Paraguay and is known for its historic buildings and river views.",
+    "fun_fact": "Asunción is one of the oldest cities in South America, founded in 1537."
+  },
+  {
+    "key": "havana_6060",
+    "answer": "Havana",
+    "trivia": "Havana is the capital of Cuba and is known for its vintage cars, colonial architecture, and vibrant music scene.",
+    "fun_fact": "Havana's Malecón is a famous seawall and promenade that stretches for 8 kilometers along the coast."
+  },
+  {
+    "key": "santodomingo_6161",
+    "answer": "Santo Domingo",
+    "trivia": "Santo Domingo is the capital of the Dominican Republic and is known for its colonial zone and historic landmarks.",
+    "fun_fact": "Santo Domingo's Zona Colonial is a UNESCO World Heritage Site and is the oldest European settlement in the Americas."
+  },
+  {
+    "key": "sanjuan_6262",
+    "answer": "San Juan",
+    "trivia": "San Juan is the capital of Puerto Rico and is known for its historic forts, beaches, and vibrant culture.",
+    "fun_fact": "San Juan's El Morro fortress is one of the most iconic landmarks in the Caribbean."
+  },
+  {
+    "key": "kingston_6363",
+    "answer": "Kingston",
+    "trivia": "Kingston is the capital of Jamaica and is known for its reggae music, Bob Marley Museum, and vibrant culture.",
+    "fun_fact": "Kingston's Blue Mountains are home to some of the most expensive coffee in the world, Jamaican Blue Mountain Coffee."
+  },
+  {
+    "key": "ottawa_6464",
+    "answer": "Ottawa",
+    "trivia": "Ottawa is the capital of Canada and is known for its Parliament Hill, Rideau Canal, and cultural institutions.",
+    "fun_fact": "Ottawa's Rideau Canal becomes the world's largest skating rink in the winter, stretching over 7.8 kilometers."
+  },
+  {
+    "key": "toronto_6565",
+    "answer": "Toronto",
+    "trivia": "Toronto is Canada's largest city and is known for its multiculturalism, CN Tower, and vibrant arts scene.",
+    "fun_fact": "Toronto's CN Tower was the tallest freestanding structure in the world for over 30 years."
+  },
+  {
+    "key": "montreal_6666",
+    "answer": "Montreal",
+    "trivia": "Montreal is known for its French heritage, festivals, and historic landmarks like Notre-Dame Basilica.",
+    "fun_fact": "Montreal is the second-largest French-speaking city in the world after Paris."
+  },
+  {
+    "key": "vancouver_6767",
+    "answer": "Vancouver",
+    "trivia": "Vancouver is known for its natural beauty, Stanley Park, and thriving film industry.",
+    "fun_fact": "Vancouver's Stanley Park is one of the largest urban parks in North America, covering over 400 hectares."
+  },
+  {
+    "key": "calgary_6868",
+    "answer": "Calgary",
+    "trivia": "Calgary is known for the Calgary Stampede, its proximity to the Rocky Mountains, and its vibrant energy industry.",
+    "fun_fact": "Calgary's Stampede is one of the largest outdoor rodeos in the world, attracting over a million visitors each year."
+  },
+  {
+    "key": "edmonton_6969",
+    "answer": "Edmonton",
+    "trivia": "Edmonton is the capital of Alberta and is known for its festivals, West Edmonton Mall, and vibrant arts scene.",
+    "fun_fact": "Edmonton's West Edmonton Mall is one of the largest shopping malls in the world, with over 800 stores."
+  },
+  {
+    "key": "winnipeg_7070",
+    "answer": "Winnipeg",
+    "trivia": "Winnipeg is known for its cultural festivals, historic sites, and the Forks Market.",
+    "fun_fact": "Winnipeg is home to the Canadian Museum for Human Rights, the first museum in the world dedicated to human rights."
+  },
+  {
+    "key": "halifax_7171",
+    "answer": "Halifax",
+    "trivia": "Halifax is the capital of Nova Scotia and is known for its maritime history, waterfront, and historic landmarks.",
+    "fun_fact": "Halifax's Citadel Hill is a star-shaped fort that offers panoramic views of the city and harbor."
+  },
+  {
+    "key": "stjohns_7272",
+    "answer": "St. John's",
+    "trivia": "St. John's is the capital of Newfoundland and Labrador and is known for its colorful houses and fishing heritage.",
+    "fun_fact": "St. John's is the oldest city in North America, founded in 1497."
+  },
+  {
+    "key": "charlottetown_7373",
+    "answer": "Charlottetown",
+    "trivia": "Charlottetown is the capital of Prince Edward Island and is known for its historic sites and small-town charm.",
+    "fun_fact": "Charlottetown is known as the 'Birthplace of Confederation' because it hosted the Charlottetown Conference in 1864."
+  },
+  {
+    "key": "fredericton_7474",
+    "answer": "Fredericton",
+    "trivia": "Fredericton is the capital of New Brunswick and is known for its historic architecture and vibrant cultural scene.",
+    "fun_fact": "Fredericton's Beaverbrook Art Gallery is one of the most important art galleries in Canada."
+  },
+  {
+    "key": "victoria_7575",
+    "answer": "Victoria",
+    "trivia": "Victoria is the capital of British Columbia and is known for its gardens, mild climate, and historic landmarks.",
+    "fun_fact": "Victoria's Butchart Gardens is one of the most famous gardens in the world, attracting over a million visitors each year."
+  },
+  {
+    "key": "yellowknife_7676",
+    "answer": "Yellowknife",
+    "trivia": "Yellowknife is the capital of the Northwest Territories and is known for its northern lights and rugged charm.",
+    "fun_fact": "Yellowknife is one of the best places in the world to see the aurora borealis, or northern lights."
+  },
+  {
+    "key": "whitehorse_7777",
+    "answer": "Whitehorse",
+    "trivia": "Whitehorse is the capital of Yukon and is known for its gold rush history and wilderness.",
+    "fun_fact": "Whitehorse is named after the White Horse Rapids, which resembled the mane of a white horse."
+  },
+  {
+    "key": "iqaluit_7878",
+    "answer": "Iqaluit",
+    "trivia": "Iqaluit is the capital of Nunavut and is known for its Inuit culture and Arctic location.",
+    "fun_fact": "Iqaluit is the smallest capital city in Canada by population, with just over 7,000 residents."
+  },
+  {
+    "key": "anchorage_7979",
+    "answer": "Anchorage",
+    "trivia": "Anchorage is the largest city in Alaska and is known for its wilderness, wildlife, and outdoor activities.",
+    "fun_fact": "Anchorage is home to the Alaska Railroad, which offers scenic rides through some of the most beautiful landscapes in the world."
+  },
+  {
+    "key": "juneau_8080",
+    "answer": "Juneau",
+    "trivia": "Juneau is the capital of Alaska and is known for its glaciers, outdoor activities, and rugged beauty.",
+    "fun_fact": "Juneau is the only U.S. state capital that is not accessible by road; it can only be reached by boat or plane."
+  },
+  {
+    "key": "fairbanks_8181",
+    "answer": "Fairbanks",
+    "trivia": "Fairbanks is known for its northern lights, Arctic location, and as a gateway to the Arctic.",
+    "fun_fact": "Fairbanks is one of the best places in the world to see the aurora borealis, or northern lights."
+  },
+  {
+    "key": "honolulu_8282",
+    "answer": "Honolulu",
+    "trivia": "Honolulu is the capital of Hawaii and is known for its beaches, Pearl Harbor, and tropical climate.",
+    "fun_fact": "Honolulu's Waikiki Beach is one of the most famous beaches in the world, attracting millions of visitors each year."
+  },
+  {
+    "key": "maui_8383",
+    "answer": "Maui",
+    "trivia": "Maui is known for its stunning beaches, Haleakalā National Park, and the scenic Road to Hana.",
+    "fun_fact": "Maui's Haleakalā volcano is one of the largest dormant volcanoes in the world, with a summit that rises over 10,000 feet."
+  },
+  {
+    "key": "kauai_8484",
+    "answer": "Kauai",
+    "trivia": "Kauai is known as the 'Garden Isle' and is famous for its lush landscapes, Waimea Canyon, and scenic beauty.",
+    "fun_fact": "Kauai's Waimea Canyon is often called the 'Grand Canyon of the Pacific' due to its stunning views."
+  },
+  {
+    "key": "hilo_8585",
+    "answer": "Hilo",
+    "trivia": "Hilo is known for its rainforests, waterfalls, and proximity to Hawaii Volcanoes National Park.",
+    "fun_fact": "Hilo is one of the wettest cities in the United States, receiving over 130 inches of rain annually."
+  },
+  {
+    "key": "auckland_8686",
+    "answer": "Auckland",
+    "trivia": "Auckland is New Zealand's largest city and is known for its harbors, volcanoes, and vibrant culture.",
+    "fun_fact": "Auckland is often called the 'City of Sails' because it has more boats per capita than any other city in the world."
+  },
+  {
+    "key": "wellington_8787",
+    "answer": "Wellington",
+    "trivia": "Wellington is the capital of New Zealand and is known for its windy weather, Te Papa Museum, and creative vibe.",
+    "fun_fact": "Wellington is the southernmost capital city in the world."
+  },
+  {
+    "key": "christchurch_8888",
+    "answer": "Christchurch",
+    "trivia": "Christchurch is known as the 'Garden City' and is famous for its English heritage and Botanic Gardens.",
+    "fun_fact": "Christchurch's Botanic Gardens are home to over 10,000 plant species and are one of the most visited attractions in New Zealand."
+  },
+  {
+    "key": "queenstown_8989",
+    "answer": "Queenstown",
+    "trivia": "Queenstown is known as the adventure capital of New Zealand and is famous for bungee jumping, skiing, and scenic beauty.",
+    "fun_fact": "Queenstown is the birthplace of commercial bungee jumping, with the first jump taking place in 1988."
+  },
+  {
+    "key": "sydney_9090",
+    "answer": "Sydney",
+    "trivia": "Sydney is known for its Opera House, Harbour Bridge, and stunning beaches.",
+    "fun_fact": "Sydney's Bondi Beach is one of the most famous beaches in the world, attracting millions of visitors each year."
+  },
+  {
+    "key": "melbourne_9191",
+    "answer": "Melbourne",
+    "trivia": "Melbourne is known for its coffee culture, street art, and sports events, including the Australian Open.",
+    "fun_fact": "Melbourne has been named the 'World's Most Liveable City' multiple times by the Economist Intelligence Unit."
+  },
+  {
+    "key": "brisbane_9292",
+    "answer": "Brisbane",
+    "trivia": "Brisbane is known for its sunny weather, South Bank Parklands, and proximity to the Gold Coast.",
+    "fun_fact": "Brisbane's South Bank Parklands feature a man-made beach in the heart of the city."
+  },
+  {
+    "key": "perth_9393",
+    "answer": "Perth",
+    "trivia": "Perth is known for its beaches, Swan River, and relaxed lifestyle.",
+    "fun_fact": "Perth is one of the most isolated major cities in the world, with the nearest city, Adelaide, over 2,000 kilometers away."
+  },
+  {
+    "key": "adelaide_9494",
+    "answer": "Adelaide",
+    "trivia": "Adelaide is known for its wine regions, festivals, and historic architecture.",
+    "fun_fact": "Adelaide is often called the 'City of Churches' due to its large number of historic churches."
+  },
+  {
+    "key": "canberra_9595",
+    "answer": "Canberra",
+    "trivia": "Canberra is the capital of Australia and is known for its museums, planned layout, and political significance.",
+    "fun_fact": "Canberra's Parliament House is one of the most iconic buildings in Australia and is open to the public."
+  },
+  {
+    "key": "hobart_9696",
+    "answer": "Hobart",
+    "trivia": "Hobart is the capital of Tasmania and is known for its historic sites, MONA museum, and small-town charm.",
+    "fun_fact": "Hobart's MONA (Museum of Old and New Art) is one of the most controversial and innovative museums in the world."
+  },
+  {
+    "key": "darwin_9797",
+    "answer": "Darwin",
+    "trivia": "Darwin is the capital of the Northern Territory and is known for its tropical climate, wildlife, and proximity to Kakadu National Park.",
+    "fun_fact": "Darwin is the only Australian capital city to have experienced a direct attack during World War II."
+  },
+  {
+    "key": "cairns_9898",
+    "answer": "Cairns",
+    "trivia": "Cairns is known for its access to the Great Barrier Reef and Daintree Rainforest.",
+    "fun_fact": "Cairns is one of the most popular tourist destinations in Australia, attracting millions of visitors each year."
+  },
+  {
+    "key": "goldcoast_9999",
+    "answer": "Gold Coast",
+    "trivia": "The Gold Coast is known for its beaches, theme parks, and surfing culture.",
+    "fun_fact": "The Gold Coast's Surfers Paradise is one of the most famous beach destinations in Australia."
+  },
+  {
+    "key": "wollongong_100100",
+    "answer": "Wollongong",
+    "trivia": "Wollongong is known for its steel industry, beaches, and proximity to Sydney.",
+    "fun_fact": "Wollongong's Sea Cliff Bridge is one of the most scenic coastal drives in Australia."
+  },
+  {
+    "key": "newcastle_101101",
+    "answer": "Newcastle",
+    "trivia": "Newcastle is known for its beaches, historic sites, and coal mining history.",
+    "fun_fact": "Newcastle is home to the largest coal export port in the world."
+  },
+  {
+    "key": "geelong_102102",
+    "answer": "Geelong",
+    "trivia": "Geelong is known for its waterfront, carousel, and proximity to Melbourne.",
+    "fun_fact": "Geelong's National Wool Museum is one of the most unique museums in Australia."
+  },
+  {
+    "key": "townsville_103103",
+    "answer": "Townsville",
+    "trivia": "Townsville is known for its access to the Great Barrier Reef and Magnetic Island.",
+    "fun_fact": "Townsville is home to the largest aquarium in Australia, Reef HQ."
+  },
+  {
+    "key": "alice_springs_104104",
+    "answer": "Alice Springs",
+    "trivia": "Alice Springs is known for its desert location and as a gateway to Uluru.",
+    "fun_fact": "Alice Springs is located in the geographic center of Australia."
+  },
+  {
+    "key": "launceston_105105",
+    "answer": "Launceston",
+    "trivia": "Launceston is known for its historic architecture and proximity to Cataract Gorge.",
+    "fun_fact": "Launceston's Cataract Gorge is one of the most scenic natural attractions in Tasmania."
+  },
+  {
+    "key": "ballarat_106106",
+    "answer": "Ballarat",
+    "trivia": "Ballarat is known for its gold rush history and Sovereign Hill museum.",
+    "fun_fact": "Ballarat's Sovereign Hill is a living museum that recreates the gold rush era of the 1850s."
+  },
+  {
+    "key": "bendigo_107107",
+    "answer": "Bendigo",
+    "trivia": "Bendigo is known for its gold rush history and Victorian architecture.",
+    "fun_fact": "Bendigo's Central Deborah Gold Mine offers underground tours that take visitors back to the gold rush era."
+  },
+  {
+    "key": "toowoomba_108108",
+    "answer": "Toowoomba",
+    "trivia": "Toowoomba is known for its gardens and annual Carnival of Flowers.",
+    "fun_fact": "Toowoomba's Carnival of Flowers is one of the most famous floral festivals in Australia."
+  },
+  {
+    "key": "rockhampton_109109",
+    "answer": "Rockhampton",
+    "trivia": "Rockhampton is known for its beef industry and as a gateway to the Capricorn Coast.",
+    "fun_fact": "Rockhampton is often called the 'Beef Capital of Australia' due to its large cattle industry."
+  },
+  {
+    "key": "mackay_110110",
+    "answer": "Mackay",
+    "trivia": "Mackay is known for its sugar industry and proximity to the Whitsunday Islands.",
+    "fun_fact": "Mackay is one of the largest sugar-producing regions in Australia."
+  },
+  {
+    "key": "bundaberg_111111",
+    "answer": "Bundaberg",
+    "trivia": "Bundaberg is known for its rum production and access to the Great Barrier Reef.",
+    "fun_fact": "Bundaberg's rum distillery is one of the most famous in Australia and produces the iconic Bundaberg Rum."
+  },
+  {
+    "key": "hervey_bay_112112",
+    "answer": "Hervey Bay",
+    "trivia": "Hervey Bay is known for its whale-watching opportunities and access to Fraser Island.",
+    "fun_fact": "Hervey Bay is one of the best places in the world to see humpback whales during their annual migration."
+  },
+  {
+    "key": "sunshine_coast_113113",
+    "answer": "Sunshine Coast",
+    "trivia": "The Sunshine Coast is known for its beaches, hinterland, and relaxed lifestyle.",
+    "fun_fact": "The Sunshine Coast's Noosa National Park is one of the most popular national parks in Australia."
+  },
+  {
+    "key": "noosa_114114",
+    "answer": "Noosa",
+    "trivia": "Noosa is known for its upscale resorts, beaches, and national park.",
+    "fun_fact": "Noosa's Main Beach is one of the few north-facing beaches on Australia's east coast."
+  },
+  {
+    "key": "byron_bay_115115",
+    "answer": "Byron Bay",
+    "trivia": "Byron Bay is known for its surfing culture, lighthouse, and laid-back vibe.",
+    "fun_fact": "Byron Bay's Cape Byron Lighthouse is the most easterly point in Australia."
+  },
+  {
+    "key": "coffs_harbour_116116",
+    "answer": "Coffs Harbour",
+    "trivia": "Coffs Harbour is known for its Big Banana and as a coastal holiday destination.",
+    "fun_fact": "Coffs Harbour's Big Banana is one of Australia's most famous 'big things' and is a popular tourist attraction."
+  },
+  {
+    "key": "port_macquarie_117117",
+    "answer": "Port Macquarie",
+    "trivia": "Port Macquarie is known for its koala hospital and coastal location.",
+    "fun_fact": "Port Macquarie's koala hospital is one of the largest in Australia and is dedicated to rescuing and rehabilitating koalas."
+  },
+  {
+    "key": "taree_118118",
+    "answer": "Taree",
+    "trivia": "Taree is known for its Manning River and as a gateway to the Barrington Tops.",
+    "fun_fact": "Taree's Manning River is one of the largest rivers in New South Wales and is popular for water sports."
+  },
+  {
+    "key": "armidale_119119",
+    "answer": "Armidale",
+    "trivia": "Armidale is known for its historic buildings and as a center for education.",
+    "fun_fact": "Armidale is home to the University of New England, one of Australia's oldest universities."
+  },
+  {
+    "key": "tamworth_120120",
+    "answer": "Tamworth",
+    "trivia": "Tamworth is known as the 'Country Music Capital of Australia'.",
+    "fun_fact": "Tamworth's Country Music Festival is one of the largest music festivals in Australia, attracting over 50,000 visitors each year."
+  }
+]
