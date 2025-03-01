@@ -21,7 +21,7 @@ git clone https://github.com/your-repo-url.git
 cd your-repo-folder
 ```
 
-### 2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies...
 
 ```sh
 npm install
