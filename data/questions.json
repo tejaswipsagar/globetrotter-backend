@@ -5,7 +5,7 @@
       "This city is home to a famous tower that sparkles every night.",
       "Known as the 'City of Love' and a hub for fashion and art."
     ],
-    "options": ["Paris", "Berlin", "London", "Rome"]
+    "options": ["Berlin", "Paris", "Rome", "London"]
   },
   {
     "key": 2,
@@ -13,7 +13,7 @@
       "Home to Big Ben and the River Thames.",
       "The Queen's official residence is located here."
     ],
-    "options": ["London", "Madrid", "Paris", "Berlin"]
+    "options": ["Madrid", "Berlin", "London", "Paris"]
   },
   {
     "key": 3,
@@ -21,7 +21,7 @@
       "An ancient city famous for its gladiator history and the Colosseum.",
       "Home to the Vatican City and the Pope."
     ],
-    "options": ["Rome", "Venice", "Athens", "Lisbon"]
+    "options": ["Venice", "Rome", "Athens", "Lisbon"]
   },
   {
     "key": 4,
@@ -29,7 +29,7 @@
       "Once divided by a wall, this city symbolizes unity.",
       "The Brandenburg Gate is one of its iconic landmarks."
     ],
-    "options": ["Berlin", "Hamburg", "Munich", "Frankfurt"]
+    "options": ["Hamburg", "Munich", "Berlin", "Frankfurt"]
   },
   {
     "key": 5,
@@ -37,7 +37,7 @@
       "This city is home to the Royal Palace of Spain.",
       "Famous for its football clubs and vibrant nightlife."
     ],
-    "options": ["Madrid", "Valencia", "Barcelona", "Seville"]
+    "options": ["Valencia", "Barcelona", "Madrid", "Seville"]
   },
   {
     "key": 6,
@@ -45,7 +45,7 @@
       "The world's most populous metropolis, known for its technology and cherry blossoms.",
       "Home to the famous Shibuya Crossing and historic temples."
     ],
-    "options": ["Tokyo", "Beijing", "Seoul", "Osaka"]
+    "options": ["Beijing", "Tokyo", "Seoul", "Osaka"]
   },
   {
     "key": 7,
@@ -53,7 +53,7 @@
       "Known as the 'Big Apple'.",
       "Home to Times Square and the Statue of Liberty."
     ],
-    "options": ["New York", "Miami", "Los Angeles", "Chicago"]
+    "options": ["Miami", "Los Angeles", "New York", "Chicago"]
   },
   {
     "key": 8,
@@ -61,7 +61,7 @@
       "Famous for its Opera House and Harbour Bridge.",
       "One of the largest cities in the Southern Hemisphere."
     ],
-    "options": ["Sydney", "Perth", "Melbourne", "Brisbane"]
+    "options": ["Perth", "Sydney", "Melbourne", "Brisbane"]
   },
   {
     "key": 9,
@@ -69,7 +69,7 @@
       "Home to the Kremlin and Red Square.",
       "The capital city of the largest country in the world."
     ],
-    "options": ["Moscow", "Warsaw", "St. Petersburg", "Kiev"]
+    "options": ["Warsaw", "St. Petersburg", "Moscow", "Kiev"]
   },
   {
     "key": 10,
@@ -77,7 +77,7 @@
       "Known for the tallest building in the world, Burj Khalifa.",
       "A global hub for luxury shopping and modern architecture."
     ],
-    "options": ["Dubai", "Kuwait City", "Abu Dhabi", "Doha"]
+    "options": ["Kuwait City", "Abu Dhabi", "Doha", "Dubai"]
   },
   {
     "key": 11,
@@ -85,7 +85,7 @@
       "Famous for Table Mountain and its beautiful coastline.",
       "A major port city with a mix of cultures."
     ],
-    "options": ["Cape Town", "Durban", "Johannesburg", "Nairobi"]
+    "options": ["Durban", "Johannesburg", "Nairobi", "Cape Town"]
   },
   {
     "key": 12,
@@ -93,7 +93,7 @@
       "The birthplace of tango and known for its European-style architecture.",
       "The capital city of Argentina."
     ],
-    "options": ["Buenos Aires", "Lima", "Santiago", "Rio de Janeiro"]
+    "options": ["Lima", "Santiago", "Buenos Aires", "Rio de Janeiro"]
   },
   {
     "key": 13,
@@ -101,7 +101,7 @@
       "Famous for its vibrant street markets and floating markets.",
       "Home to the Grand Palace and Wat Arun."
     ],
-    "options": ["Bangkok", "Hanoi", "Jakarta", "Manila"]
+    "options": ["Hanoi", "Jakarta", "Bangkok", "Manila"]
   },
   {
     "key": 14,
@@ -109,7 +109,7 @@
       "A transcontinental city known for the Hagia Sophia and the Bosphorus Strait.",
       "Formerly known as Constantinople."
     ],
-    "options": ["Istanbul", "Antalya", "Ankara", "Izmir"]
+    "options": ["Antalya", "Ankara", "Istanbul", "Izmir"]
   },
   {
     "key": 15,
@@ -117,7 +117,7 @@
       "The capital of Austria, known for its classical music heritage.",
       "Home to the Schönbrunn Palace and the Vienna State Opera."
     ],
-    "options": ["Vienna", "Warsaw", "Prague", "Budapest"]
+    "options": ["Warsaw", "Prague", "Budapest", "Vienna"]
   },
   {
     "key": 16,
@@ -125,7 +125,7 @@
       "Known as the 'City of a Hundred Spires'.",
       "Famous for its medieval Old Town and Charles Bridge."
     ],
-    "options": ["Prague", "Krakow", "Vienna", "Budapest"]
+    "options": ["Krakow", "Vienna", "Prague", "Budapest"]
   },
   {
     "key": 17,
@@ -133,7 +133,7 @@
       "Famous for its canals, cycling culture, and the Van Gogh Museum.",
       "The capital of the Netherlands."
     ],
-    "options": ["Amsterdam", "Copenhagen", "Rotterdam", "Brussels"]
+    "options": ["Copenhagen", "Rotterdam", "Amsterdam", "Brussels"]
   },
   {
     "key": 18,
@@ -141,7 +141,7 @@
       "Known for the Little Mermaid statue and Tivoli Gardens.",
       "The capital of Denmark."
     ],
-    "options": ["Copenhagen", "Helsinki", "Stockholm", "Oslo"]
+    "options": ["Helsinki", "Stockholm", "Copenhagen", "Oslo"]
   },
   {
     "key": 19,
@@ -149,7 +149,7 @@
       "A city spread across 14 islands, known for its museums and archipelago.",
       "The capital of Sweden."
     ],
-    "options": ["Stockholm", "Helsinki", "Copenhagen", "Oslo"]
+    "options": ["Helsinki", "Copenhagen", "Stockholm", "Oslo"]
   },
   {
     "key": 20,
@@ -157,7 +157,7 @@
       "Known for its design district and the Suomenlinna sea fortress.",
       "The capital of Finland."
     ],
-    "options": ["Helsinki", "Copenhagen", "Stockholm", "Oslo"]
+    "options": ["Copenhagen", "Stockholm", "Helsinki", "Oslo"]
   },
   {
     "key": 21,
@@ -165,7 +165,7 @@
       "Famous for the Viking Ship Museum and the Nobel Peace Prize.",
       "The capital of Norway."
     ],
-    "options": ["Oslo", "Helsinki", "Stockholm", "Copenhagen"]
+    "options": ["Helsinki", "Stockholm", "Oslo", "Copenhagen"]
   },
   {
     "key": 22,
@@ -173,7 +173,7 @@
       "A global financial hub known for its banks and high quality of life.",
       "Located in Switzerland, near the Alps."
     ],
-    "options": ["Zurich", "Lucerne", "Geneva", "Bern"]
+    "options": ["Lucerne", "Geneva", "Zurich", "Bern"]
   },
   {
     "key": 23,
@@ -181,7 +181,7 @@
       "Home to the United Nations and the Red Cross headquarters.",
       "A Swiss city known for its diplomacy and Jet d'Eau fountain."
     ],
-    "options": ["Geneva", "Lausanne", "Zurich", "Bern"]
+    "options": ["Lausanne", "Zurich", "Geneva", "Bern"]
   },
   {
     "key": 24,
@@ -189,7 +189,7 @@
       "The capital of the European Union and known for its waffles and chocolates.",
       "Home to the Atomium and Manneken Pis."
     ],
-    "options": ["Brussels", "Antwerp", "Amsterdam", "Luxembourg"]
+    "options": ["Antwerp", "Amsterdam", "Brussels", "Luxembourg"]
   },
   {
     "key": 25,
@@ -197,7 +197,7 @@
       "Known as the 'Pearl of the Danube', famous for its thermal baths.",
       "The capital of Hungary."
     ],
-    "options": ["Budapest", "Warsaw", "Prague", "Vienna"]
+    "options": ["Warsaw", "Prague", "Budapest", "Vienna"]
   },
   {
     "key": 26,
@@ -205,7 +205,7 @@
       "The capital of Poland, known for its resilience and historic Old Town.",
       "Home to the Warsaw Uprising Museum."
     ],
-    "options": ["Warsaw", "Budapest", "Krakow", "Prague"]
+    "options": ["Budapest", "Krakow", "Warsaw", "Prague"]
   },
   {
     "key": 27,
@@ -213,7 +213,7 @@
       "A historic city in Poland, known for its medieval core and Jewish quarter.",
       "Home to Wawel Castle and the Wieliczka Salt Mine."
     ],
-    "options": ["Krakow", "Prague", "Warsaw", "Budapest"]
+    "options": ["Prague", "Warsaw", "Krakow", "Budapest"]
   },
   {
     "key": 28,
@@ -221,7 +221,7 @@
       "The cradle of Western civilization, known for the Acropolis and Parthenon.",
       "The capital of Greece."
     ],
-    "options": ["Athens", "Thessaloniki", "Rome", "Istanbul"]
+    "options": ["Thessaloniki", "Rome", "Athens", "Istanbul"]
   },
   {
     "key": 29,
@@ -229,7 +229,7 @@
       "Known for its yellow trams, Fado music, and Belem Tower.",
       "The capital of Portugal."
     ],
-    "options": ["Lisbon", "Barcelona", "Porto", "Madrid"]
+    "options": ["Barcelona", "Porto", "Lisbon", "Madrid"]
   },
   {
     "key": 30,
@@ -237,7 +237,7 @@
       "Famous for its port wine production and Ribeira district.",
       "A coastal city in northern Portugal."
     ],
-    "options": ["Porto", "Faro", "Lisbon", "Coimbra"]
+    "options": ["Faro", "Lisbon", "Porto", "Coimbra"]
   },
   {
     "key": 31,
@@ -245,7 +245,7 @@
       "Known for Gaudí's architecture, including the Sagrada Familia.",
       "A vibrant city in Spain, located on the Mediterranean coast."
     ],
-    "options": ["Barcelona", "Seville", "Madrid", "Valencia"]
+    "options": ["Seville", "Madrid", "Barcelona", "Valencia"]
   },
   {
     "key": 32,
@@ -253,7 +253,7 @@
       "Famous for its flamenco dancing and the Alcázar palace.",
       "A historic city in southern Spain."
     ],
-    "options": ["Seville", "Valencia", "Barcelona", "Madrid"]
+    "options": ["Valencia", "Barcelona", "Seville", "Madrid"]
   },
   {
     "key": 33,
@@ -261,7 +261,7 @@
       "Known as the 'City of Canals', famous for gondola rides.",
       "Home to St. Mark's Basilica and the Grand Canal."
     ],
-    "options": ["Venice", "Milan", "Rome", "Florence"]
+    "options": ["Milan", "Rome", "Venice", "Florence"]
   },
   {
     "key": 34,
@@ -269,7 +269,7 @@
       "The birthplace of the Renaissance, known for its art and architecture.",
       "Home to the Uffizi Gallery and the Duomo."
     ],
-    "options": ["Florence", "Milan", "Rome", "Venice"]
+    "options": ["Milan", "Rome", "Florence", "Venice"]
   },
   {
     "key": 35,
@@ -277,7 +277,7 @@
       "A global fashion capital, known for the Duomo di Milano and La Scala opera house.",
       "Located in northern Italy."
     ],
-    "options": ["Milan", "Florence", "Rome", "Venice"]
+    "options": ["Florence", "Rome", "Milan", "Venice"]
   },
   {
     "key": 36,
@@ -285,7 +285,7 @@
       "Famous for its pizza, Mount Vesuvius, and Pompeii ruins.",
       "A historic city in southern Italy."
     ],
-    "options": ["Naples", "Venice", "Rome", "Florence"]
+    "options": ["Venice", "Rome", "Naples", "Florence"]
   },
   {
     "key": 37,
@@ -293,7 +293,7 @@
       "Known for its literary history, Guinness Storehouse, and Trinity College.",
       "The capital of Ireland."
     ],
-    "options": ["Dublin", "Belfast", "Cork", "Galway"]
+    "options": ["Belfast", "Cork", "Dublin", "Galway"]
   },
   {
     "key": 38,
@@ -301,7 +301,7 @@
       "Famous for its medieval Old Town and the Edinburgh Castle.",
       "The capital of Scotland."
     ],
-    "options": ["Edinburgh", "Inverness", "Glasgow", "Aberdeen"]
+    "options": ["Inverness", "Glasgow", "Edinburgh", "Aberdeen"]
   },
   {
     "key": 39,
@@ -309,7 +309,7 @@
       "Known for its Victorian architecture and vibrant music scene.",
       "The largest city in Scotland."
     ],
-    "options": ["Glasgow", "Dundee", "Edinburgh", "Aberdeen"]
+    "options": ["Dundee", "Edinburgh", "Glasgow", "Aberdeen"]
   },
   {
     "key": 40,
@@ -317,7 +317,7 @@
       "Famous for its football clubs, music scene, and industrial heritage.",
       "A major city in northern England."
     ],
-    "options": ["Manchester", "Leeds", "Liverpool", "Birmingham"]
+    "options": ["Leeds", "Liverpool", "Manchester", "Birmingham"]
   },
   {
     "key": 41,
@@ -325,7 +325,7 @@
       "Known as the birthplace of The Beatles and its maritime history.",
       "A port city in northwest England."
     ],
-    "options": ["Liverpool", "Newcastle", "Manchester", "Birmingham"]
+    "options": ["Newcastle", "Manchester", "Liverpool", "Birmingham"]
   },
   {
     "key": 42,
@@ -333,7 +333,7 @@
       "Known for its diverse culture and industrial history.",
       "The second-largest city in the UK."
     ],
-    "options": ["Birmingham", "Leeds", "Manchester", "Liverpool"]
+    "options": ["Leeds", "Manchester", "Birmingham", "Liverpool"]
   },
   {
     "key": 43,
@@ -341,7 +341,7 @@
       "The capital of Northern Ireland, known for the Titanic Museum.",
       "A city with a rich maritime history."
     ],
-    "options": ["Belfast", "Galway", "Dublin", "Cork"]
+    "options": ["Galway", "Dublin", "Belfast", "Cork"]
   },
   {
     "key": 44,
@@ -349,7 +349,7 @@
       "Home to the Pyramids of Giza and the Sphinx.",
       "The capital of Egypt."
     ],
-    "options": ["Cairo", "Aswan", "Alexandria", "Luxor"]
+    "options": ["Aswan", "Alexandria", "Cairo", "Luxor"]
   },
   {
     "key": 45,
@@ -357,7 +357,7 @@
       "Known for its bustling souks and the Jardin Majorelle.",
       "A historic city in Morocco."
     ],
-    "options": ["Marrakech", "Rabat", "Casablanca", "Fes"]
+    "options": ["Rabat", "Casablanca", "Marrakech", "Fes"]
   },
   {
     "key": 46,
@@ -365,7 +365,7 @@
       "Famous for the Hassan II Mosque and its coastal location.",
       "The largest city in Morocco."
     ],
-    "options": ["Casablanca", "Rabat", "Marrakech", "Fes"]
+    "options": ["Rabat", "Marrakech", "Casablanca", "Fes"]
   },
   {
     "key": 47,
@@ -373,7 +373,7 @@
       "The capital of Kenya, known for its national parks and wildlife.",
       "A hub for safari adventures."
     ],
-    "options": ["Nairobi", "Durban", "Cape Town", "Johannesburg"]
+    "options": ["Durban", "Cape Town", "Nairobi", "Johannesburg"]
   },
   {
     "key": 48,
@@ -381,7 +381,7 @@
       "The largest city in South Africa, known for its gold mining history.",
       "A major economic hub in Africa."
     ],
-    "options": ["Johannesburg", "Durban", "Cape Town", "Nairobi"]
+    "options": ["Durban", "Cape Town", "Johannesburg", "Nairobi"]
   },
   {
     "key": 49,
@@ -389,7 +389,7 @@
       "The largest city in Nigeria, known for its vibrant culture and music.",
       "A major financial center in Africa."
     ],
-    "options": ["Lagos", "Nairobi", "Abuja", "Accra"]
+    "options": ["Nairobi", "Abuja", "Lagos", "Accra"]
   },
   {
     "key": 50,
@@ -397,7 +397,7 @@
       "The capital of Ghana, known for its beaches and vibrant markets.",
       "A hub for West African culture."
     ],
-    "options": ["Accra", "Dakar", "Lagos", "Abuja"]
+    "options": ["Dakar", "Lagos", "Accra", "Abuja"]
   },
   {
     "key": 51,
@@ -405,7 +405,7 @@
       "The capital of Senegal, known for its French colonial heritage.",
       "A gateway to Gorée Island and the African Renaissance Monument."
     ],
-    "options": ["Dakar", "Bamako", "Accra", "Abuja"]
+    "options": ["Bamako", "Accra", "Dakar", "Abuja"]
   },
   {
     "key": 52,
@@ -413,7 +413,7 @@
       "The capital of Kenya, known for its national parks and wildlife.",
       "A hub for safari adventures."
     ],
-    "options": ["Nairobi", "Durban", "Cape Town", "Johannesburg"]
+    "options": ["Durban", "Cape Town", "Nairobi", "Johannesburg"]
   },
   {
     "key": 53,
@@ -421,7 +421,7 @@
       "Famous for Table Mountain and its beautiful coastline.",
       "A major port city with a mix of cultures."
     ],
-    "options": ["Cape Town", "Durban", "Johannesburg", "Nairobi"]
+    "options": ["Durban", "Johannesburg", "Cape Town", "Nairobi"]
   },
   {
     "key": 54,
@@ -429,7 +429,7 @@
       "Known for its Carnival, Christ the Redeemer statue, and Copacabana Beach.",
       "A vibrant city in Brazil."
     ],
-    "options": ["Rio de Janeiro", "Lima", "São Paulo", "Buenos Aires"]
+    "options": ["Lima", "São Paulo", "Rio de Janeiro", "Buenos Aires"]
   },
   {
     "key": 55,
@@ -437,7 +437,7 @@
       "The largest city in Brazil, known for its skyscrapers and cultural diversity.",
       "A major financial center in South America."
     ],
-    "options": ["São Paulo", "Lima", "Rio de Janeiro", "Buenos Aires"]
+    "options": ["Lima", "Rio de Janeiro", "São Paulo", "Buenos Aires"]
   },
   {
     "key": 56,
@@ -445,7 +445,7 @@
       "The capital of Peru, known for its colonial architecture and cuisine.",
       "A gateway to Machu Picchu."
     ],
-    "options": ["Lima", "Bogotá", "Santiago", "Buenos Aires"]
+    "options": ["Bogotá", "Santiago", "Lima", "Buenos Aires"]
   },
   {
     "key": 57,
@@ -453,7 +453,7 @@
       "The capital of Colombia, known for its gold museum and Andean location.",
       "A city with a vibrant cultural scene."
     ],
-    "options": ["Bogotá", "Caracas", "Lima", "Quito"]
+    "options": ["Caracas", "Lima", "Bogotá", "Quito"]
   },
   {
     "key": 58,
@@ -461,7 +461,7 @@
       "The capital of Ecuador, known for its well-preserved colonial center.",
       "Located near the equator."
     ],
-    "options": ["Quito", "Caracas", "Lima", "Bogotá"]
+    "options": ["Caracas", "Lima", "Quito", "Bogotá"]
   },
   {
     "key": 59,
@@ -469,7 +469,7 @@
       "The capital of Venezuela, known for its cable car system and Avila Mountain.",
       "A city with a tropical climate."
     ],
-    "options": ["Caracas", "Bogotá", "Quito", "Lima"]
+    "options": ["Bogotá", "Quito", "Caracas", "Lima"]
   },
   {
     "key": 60,
@@ -477,7 +477,7 @@
       "The capital of Chile, known for its Andean backdrop and wine production.",
       "A city with a vibrant arts scene."
     ],
-    "options": ["Santiago", "Bogotá", "Buenos Aires", "Lima"]
+    "options": ["Bogotá", "Buenos Aires", "Santiago", "Lima"]
   },
   {
     "key": 61,
@@ -485,7 +485,7 @@
       "The capital of Uruguay, known for its beaches and colonial architecture.",
       "A city with a relaxed atmosphere."
     ],
-    "options": ["Montevideo", "Lima", "Buenos Aires", "Santiago"]
+    "options": ["Lima", "Buenos Aires", "Montevideo", "Santiago"]
   },
   {
     "key": 62,
@@ -493,7 +493,7 @@
       "The capital of Paraguay, known for its historic buildings and river views.",
       "A city with a rich cultural heritage."
     ],
-    "options": ["Asunción", "Santiago", "Montevideo", "Buenos Aires"]
+    "options": ["Santiago", "Montevideo", "Asunción", "Buenos Aires"]
   },
   {
     "key": 63,
@@ -501,7 +501,7 @@
       "The capital of Cuba, known for its vintage cars and colonial architecture.",
       "A city with a vibrant music scene."
     ],
-    "options": ["Havana", "Kingston", "Santo Domingo", "San Juan"]
+    "options": ["Kingston", "Santo Domingo", "Havana", "San Juan"]
   },
   {
     "key": 64,
@@ -509,7 +509,7 @@
       "The capital of the Dominican Republic, known for its colonial zone.",
       "A city with a rich history and vibrant culture."
     ],
-    "options": ["Santo Domingo", "San Juan", "Havana", "Kingston"]
+    "options": ["San Juan", "Havana", "Santo Domingo", "Kingston"]
   },
   {
     "key": 65,
@@ -517,7 +517,7 @@
       "The capital of Puerto Rico, known for its historic forts and beaches.",
       "A city with a mix of Spanish and Caribbean influences."
     ],
-    "options": ["San Juan", "Kingston", "Santo Domingo", "Havana"]
+    "options": ["Kingston", "Santo Domingo", "San Juan", "Havana"]
   },
   {
     "key": 66,
@@ -525,7 +525,7 @@
       "The capital of Jamaica, known for its reggae music and Bob Marley Museum.",
       "A city with a vibrant cultural scene."
     ],
-    "options": ["Kingston", "Havana", "Santo Domingo", "San Juan"]
+    "options": ["Havana", "Santo Domingo", "Kingston", "San Juan"]
   },
   {
     "key": 67,
@@ -533,7 +533,7 @@
       "The capital of Canada, known for its Parliament Hill and Rideau Canal.",
       "A city with a mix of English and French cultures."
     ],
-    "options": ["Ottawa", "Vancouver", "Toronto", "Montreal"]
+    "options": ["Vancouver", "Toronto", "Ottawa", "Montreal"]
   },
   {
     "key": 68,
@@ -541,7 +541,7 @@
       "The largest city in Canada, known for the CN Tower and multiculturalism.",
       "A major financial and cultural hub."
     ],
-    "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"]
+    "options": ["Vancouver", "Ottawa", "Toronto", "Montreal"]
   },
   {
     "key": 69,
@@ -549,7 +549,7 @@
       "Known for its French heritage, festivals, and Notre-Dame Basilica.",
       "A vibrant city in Quebec, Canada."
     ],
-    "options": ["Montreal", "Vancouver", "Toronto", "Ottawa"]
+    "options": ["Vancouver", "Toronto", "Montreal", "Ottawa"]
   },
   {
     "key": 70,
@@ -557,7 +557,7 @@
       "Known for its natural beauty, Stanley Park, and film industry.",
       "A coastal city in western Canada."
     ],
-    "options": ["Vancouver", "Calgary", "Toronto", "Montreal"]
+    "options": ["Calgary", "Toronto", "Vancouver", "Montreal"]
   },
   {
     "key": 71,
@@ -565,7 +565,7 @@
       "Known for the Calgary Stampede and its proximity to the Rocky Mountains.",
       "A city in Alberta, Canada."
     ],
-    "options": ["Calgary", "Edmonton", "Vancouver", "Toronto"]
+    "options": ["Edmonton", "Vancouver", "Calgary", "Toronto"]
   },
   {
     "key": 72,
@@ -573,7 +573,7 @@
       "The capital of Alberta, known for its festivals and West Edmonton Mall.",
       "A city with a vibrant arts scene."
     ],
-    "options": ["Edmonton", "Toronto", "Calgary", "Vancouver"]
+    "options": ["Toronto", "Calgary", "Edmonton", "Vancouver"]
   },
   {
     "key": 73,
@@ -581,7 +581,7 @@
       "Known for its cultural festivals and the Forks Market.",
       "A city in Manitoba, Canada."
     ],
-    "options": ["Winnipeg", "Vancouver", "Calgary", "Edmonton"]
+    "options": ["Vancouver", "Calgary", "Winnipeg", "Edmonton"]
   },
   {
     "key": 74,
@@ -589,7 +589,7 @@
       "The capital of Nova Scotia, known for its maritime history and waterfront.",
       "A city with a rich cultural heritage."
     ],
-    "options": ["Halifax", "Fredericton", "St. John's", "Charlottetown"]
+    "options": ["Fredericton", "St. John's", "Halifax", "Charlottetown"]
   },
   {
     "key": 75,
@@ -597,7 +597,7 @@
       "The capital of Newfoundland and Labrador, known for its colorful houses.",
       "A city with a strong fishing heritage."
     ],
-    "options": ["St. John's", "Charlottetown", "Halifax", "Fredericton"]
+    "options": ["Charlottetown", "Halifax", "St. John's", "Fredericton"]
   },
   {
     "key": 76,
@@ -605,7 +605,7 @@
       "The capital of Prince Edward Island, known for its historic sites.",
       "A city with a small-town charm."
     ],
-    "options": ["Charlottetown", "Fredericton", "Halifax", "St. John's"]
+    "options": ["Fredericton", "Halifax", "Charlottetown", "St. John's"]
   },
   {
     "key": 77,
@@ -613,7 +613,7 @@
       "The capital of New Brunswick, known for its historic architecture.",
       "A city with a rich cultural scene."
     ],
-    "options": ["Fredericton", "Charlottetown", "Halifax", "St. John's"]
+    "options": ["Charlottetown", "Halifax", "Fredericton", "St. John's"]
   },
   {
     "key": 78,
@@ -621,7 +621,7 @@
       "The capital of British Columbia, known for its gardens and mild climate.",
       "A city on Vancouver Island."
     ],
-    "options": ["Victoria", "Edmonton", "Vancouver", "Calgary"]
+    "options": ["Edmonton", "Vancouver", "Victoria", "Calgary"]
   },
   {
     "key": 79,
@@ -629,7 +629,7 @@
       "The capital of the Northwest Territories, known for its northern lights.",
       "A city with a rugged, remote charm."
     ],
-    "options": ["Yellowknife", "Edmonton", "Whitehorse", "Iqaluit"]
+    "options": ["Edmonton", "Whitehorse", "Yellowknife", "Iqaluit"]
   },
   {
     "key": 80,
@@ -637,7 +637,7 @@
       "The capital of Yukon, known for its gold rush history and wilderness.",
       "A city with a frontier spirit."
     ],
-    "options": ["Whitehorse", "Iqaluit", "Yellowknife", "Edmonton"]
+    "options": ["Iqaluit", "Yellowknife", "Whitehorse", "Edmonton"]
   },
   {
     "key": 81,
@@ -645,7 +645,7 @@
       "The capital of Nunavut, known for its Inuit culture and Arctic location.",
       "A city with a unique northern identity."
     ],
-    "options": ["Iqaluit", "Edmonton", "Yellowknife", "Whitehorse"]
+    "options": ["Edmonton", "Yellowknife", "Iqaluit", "Whitehorse"]
   },
   {
     "key": 82,
@@ -653,7 +653,7 @@
       "The largest city in Alaska, known for its wilderness and wildlife.",
       "A gateway to Denali National Park."
     ],
-    "options": ["Anchorage", "Seattle", "Fairbanks", "Juneau"]
+    "options": ["Seattle", "Fairbanks", "Anchorage", "Juneau"]
   },
   {
     "key": 83,
@@ -661,7 +661,7 @@
       "The capital of Alaska, known for its glaciers and outdoor activities.",
       "A city with a rugged, natural beauty."
     ],
-    "options": ["Juneau", "Seattle", "Anchorage", "Fairbanks"]
+    "options": ["Seattle", "Anchorage", "Juneau", "Fairbanks"]
   },
   {
     "key": 84,
@@ -669,7 +669,7 @@
       "Known for its northern lights and as a gateway to the Arctic.",
       "A city in interior Alaska."
     ],
-    "options": ["Fairbanks", "Seattle", "Anchorage", "Juneau"]
+    "options": ["Seattle", "Anchorage", "Fairbanks", "Juneau"]
   },
   {
     "key": 85,
@@ -677,7 +677,7 @@
       "The capital of Hawaii, known for its beaches and Pearl Harbor.",
       "A city with a tropical paradise vibe."
     ],
-    "options": ["Honolulu", "Hilo", "Maui", "Kauai"]
+    "options": ["Hilo", "Maui", "Honolulu", "Kauai"]
   },
   {
     "key": 86,
@@ -685,7 +685,7 @@
       "Known for its stunning beaches, Haleakalā National Park, and road to Hana.",
       "A popular island in Hawaii."
     ],
-    "options": ["Maui", "Kauai", "Honolulu", "Hilo"]
+    "options": ["Kauai", "Honolulu", "Maui", "Hilo"]
   },
   {
     "key": 87,
@@ -693,7 +693,7 @@
       "Known as the 'Garden Isle', famous for its lush landscapes and Waimea Canyon.",
       "A scenic island in Hawaii."
     ],
-    "options": ["Kauai", "Hilo", "Maui", "Honolulu"]
+    "options": ["Hilo", "Maui", "Kauai", "Honolulu"]
   },
   {
     "key": 88,
@@ -701,7 +701,7 @@
       "Known for its rainforests, waterfalls, and proximity to Hawaii Volcanoes National Park.",
       "A city on the Big Island of Hawaii."
     ],
-    "options": ["Hilo", "Honolulu", "Maui", "Kauai"]
+    "options": ["Honolulu", "Maui", "Hilo", "Kauai"]
   },
   {
     "key": 89,
@@ -709,7 +709,7 @@
       "The largest city in New Zealand, known for its harbors and volcanoes.",
       "A city with a vibrant cultural scene."
     ],
-    "options": ["Auckland", "Queenstown", "Wellington", "Christchurch"]
+    "options": ["Queenstown", "Wellington", "Auckland", "Christchurch"]
   },
   {
     "key": 90,
@@ -717,7 +717,7 @@
       "The capital of New Zealand, known for its windy weather and Te Papa Museum.",
       "A city with a creative vibe."
     ],
-    "options": ["Wellington", "Christchurch", "Auckland", "Queenstown"]
+    "options": ["Christchurch", "Auckland", "Wellington", "Queenstown"]
   },
   {
     "key": 91,
@@ -725,7 +725,7 @@
       "Known as the 'Garden City', famous for its English heritage and Botanic Gardens.",
       "A city on New Zealand's South Island."
     ],
-    "options": ["Christchurch", "Queenstown", "Auckland", "Wellington"]
+    "options": ["Queenstown", "Auckland", "Christchurch", "Wellington"]
   },
   {
     "key": 92,
@@ -733,7 +733,7 @@
       "Known as the adventure capital of New Zealand, famous for bungee jumping and skiing.",
       "A scenic city on the South Island."
     ],
-    "options": ["Queenstown", "Christchurch", "Auckland", "Wellington"]
+    "options": ["Christchurch", "Auckland", "Queenstown", "Wellington"]
   },
   {
     "key": 93,
@@ -741,7 +741,7 @@
       "Famous for its Opera House and Harbour Bridge.",
       "One of the largest cities in the Southern Hemisphere."
     ],
-    "options": ["Sydney", "Perth", "Melbourne", "Brisbane"]
+    "options": ["Perth", "Melbourne", "Sydney", "Brisbane"]
   },
   {
     "key": 94,
@@ -749,7 +749,7 @@
       "Known for its coffee culture, street art, and sports events.",
       "A vibrant city in Australia."
     ],
-    "options": ["Melbourne", "Brisbane", "Sydney", "Perth"]
+    "options": ["Brisbane", "Sydney", "Melbourne", "Perth"]
   },
   {
     "key": 95,
@@ -757,7 +757,7 @@
       "Known for its sunny weather, South Bank Parklands, and proximity to the Gold Coast.",
       "A city in Queensland, Australia."
     ],
-    "options": ["Brisbane", "Perth", "Sydney", "Melbourne"]
+    "options": ["Perth", "Sydney", "Brisbane", "Melbourne"]
   },
   {
     "key": 96,
@@ -765,7 +765,7 @@
       "Known for its beaches, Swan River, and relaxed lifestyle.",
       "A city in Western Australia."
     ],
-    "options": ["Perth", "Brisbane", "Sydney", "Melbourne"]
+    "options": ["Brisbane", "Sydney", "Perth", "Melbourne"]
   },
   {
     "key": 97,
@@ -773,7 +773,7 @@
       "Known for its wine regions, festivals, and historic architecture.",
       "A city in South Australia."
     ],
-    "options": ["Adelaide", "Perth", "Sydney", "Melbourne"]
+    "options": ["Perth", "Sydney", "Adelaide", "Melbourne"]
   },
   {
     "key": 98,
@@ -781,7 +781,7 @@
       "The capital of Australia, known for its museums and planned layout.",
       "A city with a political focus."
     ],
-    "options": ["Canberra", "Brisbane", "Sydney", "Melbourne"]
+    "options": ["Brisbane", "Sydney", "Canberra", "Melbourne"]
   },
   {
     "key": 99,
@@ -789,7 +789,7 @@
       "The capital of Tasmania, known for its historic sites and MONA museum.",
       "A city with a small-town charm."
     ],
-    "options": ["Hobart", "Adelaide", "Sydney", "Melbourne"]
+    "options": ["Adelaide", "Sydney", "Hobart", "Melbourne"]
   },
   {
     "key": 100,
@@ -797,7 +797,7 @@
       "The capital of the Northern Territory, known for its tropical climate and wildlife.",
       "A gateway to Kakadu National Park."
     ],
-    "options": ["Darwin", "Adelaide", "Perth", "Brisbane"]
+    "options": ["Adelaide", "Perth", "Darwin", "Brisbane"]
   },
   {
     "key": 101,
@@ -805,7 +805,7 @@
       "Known for its Great Barrier Reef access and rainforests.",
       "A city in Queensland, Australia."
     ],
-    "options": ["Cairns", "Gold Coast", "Brisbane", "Sydney"]
+    "options": ["Gold Coast", "Brisbane", "Cairns", "Sydney"]
   },
   {
     "key": 102,
@@ -813,7 +813,7 @@
       "Known for its beaches, theme parks, and surfing culture.",
       "A city in Queensland, Australia."
     ],
-    "options": ["Gold Coast", "Cairns", "Brisbane", "Sydney"]
+    "options": ["Cairns", "Brisbane", "Gold Coast", "Sydney"]
   },
   {
     "key": 103,
@@ -821,7 +821,7 @@
       "Known for its steel industry, beaches, and proximity to Sydney.",
       "A city in New South Wales, Australia."
     ],
-    "options": ["Wollongong", "Brisbane", "Sydney", "Melbourne"]
+    "options": ["Brisbane", "Sydney", "Wollongong", "Melbourne"]
   },
   {
     "key": 104,
@@ -829,7 +829,7 @@
       "Known for its beaches, historic sites, and coal mining history.",
       "A city in New South Wales, Australia."
     ],
-    "options": ["Newcastle", "Brisbane", "Sydney", "Melbourne"]
+    "options": ["Brisbane", "Sydney", "Newcastle", "Melbourne"]
   },
   {
     "key": 105,
@@ -837,7 +837,7 @@
       "Known for its waterfront, carousel, and proximity to Melbourne.",
       "A city in Victoria, Australia."
     ],
-    "options": ["Geelong", "Brisbane", "Sydney", "Melbourne"]
+    "options": ["Brisbane", "Sydney", "Geelong", "Melbourne"]
   },
   {
     "key": 106,
@@ -845,7 +845,7 @@
       "Known for its access to the Great Barrier Reef and Magnetic Island.",
       "A city in Queensland, Australia."
     ],
-    "options": ["Townsville", "Gold Coast", "Brisbane", "Cairns"]
+    "options": ["Gold Coast", "Brisbane", "Townsville", "Cairns"]
   },
   {
     "key": 107,
@@ -853,7 +853,7 @@
       "Known for its desert location and as a gateway to Uluru.",
       "A city in the Northern Territory, Australia."
     ],
-    "options": ["Alice Springs", "Adelaide", "Darwin", "Perth"]
+    "options": ["Adelaide", "Darwin", "Alice Springs", "Perth"]
   },
   {
     "key": 108,
@@ -861,7 +861,7 @@
       "Known for its historic architecture and proximity to Cataract Gorge.",
       "A city in Tasmania, Australia."
     ],
-    "options": ["Launceston", "Sydney", "Hobart", "Melbourne"]
+    "options": ["Sydney", "Hobart", "Launceston", "Melbourne"]
   },
   {
     "key": 109,
@@ -869,7 +869,7 @@
       "Known for its gold rush history and Sovereign Hill museum.",
       "A city in Victoria, Australia."
     ],
-    "options": ["Ballarat", "Sydney", "Geelong", "Melbourne"]
+    "options": ["Sydney", "Geelong", "Ballarat", "Melbourne"]
   },
   {
     "key": 110,
@@ -877,7 +877,7 @@
       "Known for its gold rush history and Victorian architecture.",
       "A city in Victoria, Australia."
     ],
-    "options": ["Bendigo", "Ballarat", "Geelong", "Melbourne"]
+    "options": ["Ballarat", "Geelong", "Bendigo", "Melbourne"]
   },
   {
     "key": 111,
@@ -885,6 +885,6 @@
       "Known for its gardens and annual Carnival of Flowers.",
       "A city in Queensland, Australia."
     ],
-    "options": ["Toowoomba", "Cairns", "Brisbane", "Gold Coast"]
+    "options": ["Cairns", "Brisbane", "Toowoomba", "Gold Coast"]
   }
 ]
